@@ -1,5 +1,0 @@
-#!/bin/bash
-# this script is executed as the CMD for the container that is built
-# by the S2I process
-
-exec httpd -D FOREGROUND

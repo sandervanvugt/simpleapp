@@ -1,6 +1,0 @@
-# This script moves PHP source code to the container working directory
-# sources are available because S2I executes the git clone command to get access 
-# to application files
-
-echo "-------> installing application source"
-cp -Rf /tmp/src/. ./
