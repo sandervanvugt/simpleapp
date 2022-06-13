@@ -12,4 +12,4 @@ bash && \
 yum clean all
 
 ENTRYPOINT ["/usr/bin/nmap"]
-CMD ["-sn", "172.16.0.0/24"] 
+CMD ["-sn", "172.18.0.0/24"] 
