@@ -11,6 +11,6 @@
 		echo date("g:i A l, F j Y.");?> </p>
 	<h2>PHP Information</h2> 
 		<p> <?php phpinfo(); ?> </p> 
-        <h2>NICE WEATHER IN NL TODAY</h2>
+        <h2>NICE WEATHER IN anywhere but the NL TODAY</h2>
 	</body> 
 </html>
